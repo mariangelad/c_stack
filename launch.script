@@ -1,0 +1,7 @@
+# compila ed esegue
+
+gcc stack.c stack_array.c list.c stack_mixed.c main.c -lm -o StackLib -Wall
+
+./StackLib
+
+ 
